@@ -1,4 +1,4 @@
-# 一个简单的python聊天室
+# python聊天室
 一个基于python的聊天室，使用pyside6作为gui驱动程序，你可以通过配置mysql数据库来实现聊天室的登陆操作
 
 ## 功能
